@@ -26,7 +26,7 @@ bucket listing
 	python main.py -listbucket [project_name]
 
 delete bucket # i setting it on 30 day
-	python main.py -cleanup30d [project_name]
+	python main.py -cleanup30d [project_name] [bucket_name]
 
 -------------------------
 -------------------------
